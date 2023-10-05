@@ -3,4 +3,4 @@
 
 def myFunction():
   # My Function
-  return "hello"
+  return "Hello World!"
